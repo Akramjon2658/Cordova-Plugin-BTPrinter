@@ -1,5 +1,4 @@
 # Forked from [CesarBalzer/Cordova-Plugin-BTPrinter](https://github.com/CesarBalzer/Cordova-Plugin-BTPrinter)
-and image size limit a little larged
 # Cordova-Plugin-BTPrinter
 
 A cordova plugin for bluetooth printer for android platform.
